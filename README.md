@@ -3,7 +3,7 @@
 The task is to implement a `pipe` function. It can be implemented in any language you're familiar with, but semantics should stay the same as in the example below.
 
 To submit your solution do the following:
-1. clone this repository
+1. fork this repository
 2. create folder `solution`
 3. create a file in that folder named something like `max-klishevych.js`
 4. submit a pull request back to this repository
