@@ -1,5 +1,5 @@
 // Correct me:
-// with two arguments this runs in O(n * m) ?
+// with two arguments this runs in O(nm + 2) ?
 // where n = largest array length, m = smallest array length
 
 const intersect = (...arrays) => {
